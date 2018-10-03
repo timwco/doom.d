@@ -1,4 +1,4 @@
-Yo. This is my [Doom Emacs]() configuration. Enjoy.
+Yo. This is my [Doom Emacs](https://github.com/hlissner/doom-emacs) configuration. Enjoy.
 
 ### Custom Icon
 
