@@ -8,7 +8,9 @@
 
 ;; Opens In Full Screen / Maximized
 (add-to-list 'default-frame-alist '(fullscreen . maximized))
-(add-hook 'window-setup-hook 'toggle-frame-fullscreen t)
+
+;; Opens in Distraction Free Mode
+;; (add-hook 'window-setup-hook 'toggle-frame-fullscreen t)
 
 ;; Setting Line Height
 (defun set-bigger-spacing ()

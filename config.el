@@ -22,3 +22,4 @@
 
 ;; Modules
 (load! "+ui")
+(load! "+projects")
